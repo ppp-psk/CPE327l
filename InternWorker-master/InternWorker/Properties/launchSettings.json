@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "InternWorker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
